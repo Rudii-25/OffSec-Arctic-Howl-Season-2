@@ -1,0 +1,9 @@
+arctic-howl-ctf/
+about_challenge.md
+Tutorial_Challenge_Writeup.md
+Week_1_First_Tracks_Writeup.md
+auto_git_scheduler.py
+.git_schedule_state.json
+.git_scheduler.log
+__pycache__/
+*.pyc
