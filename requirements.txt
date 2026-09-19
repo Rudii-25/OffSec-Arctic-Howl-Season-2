@@ -1,0 +1,8 @@
+# OffSec Arctic Howl Season 2 - Python Forensic & Analysis Dependencies
+scapy>=2.5.0
+capstone>=5.0.0
+cryptography>=42.0.0
+protobuf>=4.25.0
+yara-python>=4.5.0
+requests>=2.31.0
+pytest>=8.0.0
