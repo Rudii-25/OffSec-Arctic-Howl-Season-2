@@ -1,0 +1,6 @@
+Type,Indicator,Description,ThreatActor/Origin
+IPv4,203.98.112.47,External Drop Server for sensitive.db exfiltration,Insider Drop Point
+Email,samuel.adu@megacorpone.com,Compromised Internal Employee / Leaker,Megacorp Insider
+Artifact,sensitive.db,Exfiltrated SQLite database with user credentials,Stolen Database
+Archive,note3.zip,Disguised upload container bypassing MIME filters,Staging Archive
+Credential,Robin Schwartz:5up3r5Tr0NgP@$$w0rd!,Compromised administrative credentials,Database Record
